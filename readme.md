@@ -7,7 +7,7 @@ This repository contains :
 - Notebook for alphabet recognition
 
 # Requirements
-- anaconda [link] (https://www.anaconda.com/products/individual)
+- anaconda [link](https://www.anaconda.com/products/individual)
 - mediapipe 0.8.1
 - opencv 3.4.2 or Later
 - scikit-learn 0.23.2 or Later
