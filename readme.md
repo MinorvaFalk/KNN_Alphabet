@@ -37,7 +37,6 @@ This repository contains :
 
 ### Generate Dataset.ipynb
 Generating dataset from image to landmark in csv.
-
 (if you want to create your own landmark dataset)
 
 ### Visual Programming Project.ipynb
@@ -52,7 +51,6 @@ Unzipped folder of image dataset. Make sure child directory is the same as above
 
 # Generating Dataset
 Make sure you have the same folder structure as mention above and the same dataset, after that you can run _Generate Dataset.ipynb_.
-
 You might need to modify _Generate Dataset.ipynb_, if you are using your own dataset.
 
 # Training
